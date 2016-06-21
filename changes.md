@@ -3,6 +3,7 @@
 ### v0.0.3
 - Erweiterung für multiple Select´s
 - Workaround zum Trigger von chosen:ready .on('chosen:ready') muß auf das Selectfeld angewendet werden, bevor chosen() angewendet wird
+- Tooltips verwenden nun body als container
 
 ### v0.0.2
 - Tooltips hinzugefügt
