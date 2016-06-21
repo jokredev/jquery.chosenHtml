@@ -10,7 +10,7 @@ Benutzer nun anstelle von $('select).chosen(optionen);
 $('select).chosenHtml(chosenOptions, htmlOptions); 
 
 ### Optionen:
-chosenObtions       Dieses Objekt wird an chosen weitergegeben,
+chosenOptions       Dieses Objekt wird an chosen weitergegeben,
                     Die möglichen Optionen kannst du auf der Seite
                     https://github.com/harvesthq/chosen entnehmen
 htmlOptions         Object mit den Einstellungen für chosenHtml
